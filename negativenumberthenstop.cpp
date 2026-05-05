@@ -13,6 +13,6 @@ int main() {
         }
    sum += num; 
     }
-    cout << "Sum of positive numbers = " << sum << endl;
+    cout << "Sum of positive numbers = " << sum << endl; 
     return 0;
 }
