@@ -1,0 +1,17 @@
+//#include<iostream>
+'using namespace std;
+int main() {
+    int rows;
+    int i, j,n;
+    cout << "Enter the number of rows: ";
+    cin >> rows;
+    for(i to n) {
+        for (j to n - i) {
+            cout << "  ";
+        }
+        for (j to i) {
+            cout << "* ";
+        }
+        cout << endl;
+    }
+    return 0;//in this code we will print the pattern of star in right angle triangle form'
